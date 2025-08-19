@@ -5,6 +5,9 @@
   "engines": {
     "node": "16.x"
   },
+  "rules": {
+    "no-unused-vars": "off"
+  }
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@headlessui/react": "^1.4.2",
